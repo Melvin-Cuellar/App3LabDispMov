@@ -24,34 +24,34 @@
 
     <Button
         android:id="@+id/btnAgregarPersona"
-        android:layout_width="214dp"
+        android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
         android:backgroundTint="@color/btn_background"
         android:text="Agregar Persona"
-        android:textSize="18sp"
+        android:textSize="17sp"
         android:textStyle="bold"
         android:textColor="@color/txt_primary"/>
 
     <Button
         android:id="@+id/btnMostrarLista"
-        android:layout_width="214dp"
+        android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:backgroundTint="@color/btn_background"
         android:text="Mostrar Lista"
         android:layout_marginBottom="16dp"
-        android:textSize="18sp"
+        android:textSize="17sp"
         android:textStyle="bold"
         android:textColor="@color/txt_primary" />
 
     <Button
         android:id="@+id/btnAcerca"
-        android:layout_width="214dp"
+        android:layout_width="200dp"
         android:layout_marginBottom="16dp"
         android:layout_height="wrap_content"
         android:backgroundTint="@color/btn_background"
         android:text="Acerca de"
-        android:textSize="18sp"
+        android:textSize="17sp"
         android:textStyle="bold"
         android:textColor="@color/txt_primary" />
 
