@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="txt_primary">#FFFFFF</color> <!--Para letra de TextView-->
+    <color name="txt_secondary">#A0A8B2</color> <!-- Para letra de menor importancia -->
+    <color name="card_background">#991E2A38</color>
+    <color name="btn_background">#2979FF</color>
+    <color name="btn_border">#3A4B5A</color>
 </resources>
